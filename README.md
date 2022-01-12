@@ -1,0 +1,1 @@
+Smart contracts for Griffin Finance
